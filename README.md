@@ -17,7 +17,8 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
 | PIA Analysis For AI Products                  | Privacy Analysis           |
 | Blue team Labs (SOC Alerts)                   | <a href="https://app.letsdefend.io/user/tarunkal">SOC Profile</a>|
 | SOC Home Lab                                  | currently engaged         |
-## Tools
+
+## Tools & Frameworks 
 
 ### Network
 <div>
@@ -28,7 +29,7 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+
 </div>
 
 ### SIEM
@@ -38,6 +39,29 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+## Framework  
+<div>
+    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FFA500?style=for-the-badge&logo=mitre&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cyber%20Kill%20Chain-0078D4?style=for-the-badge&logo=cyber&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</div>
+
+## Privacy and Compliance Law
+<div>
+    <img src="https://img.shields.io/badge/-GDPR-0052CC?style=for-the-badge&logo=gdpr&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NIST-4B0082?style=for-the-badge&logo=gov&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HIPAA-008080?style=for-the-badge&logo=healthcare&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PHIPA-483D8B?style=for-the-badge&logo=privacy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PIPEDA-800000?style=for-the-badge&logo=law&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FIPPA-2F4F4F?style=for-the-badge&logo=gov&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Data%20Privacy-808080?style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GRC-228B22?style=for-the-badge&logo=balance-scale&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Privacy%20Act-2E8B57?style=for-the-badge&logo=gov&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PCI%20DSS-FF4500?style=for-the-badge&logo=credit-card&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCPA-DC143C?style=for-the-badge&logo=gov&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SANS%20Top%2020%20(CIS%20Controls)-4682B4?style=for-the-badge&logo=security&logoColor=white" />
+</div>
+     
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -45,4 +69,5 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
 
 ## Projects
 - SIEM Implementation and Log Analysis
-- SOC Automation Project
+- Malware Analysis Lab
+- PIA Analysis For AI Products
