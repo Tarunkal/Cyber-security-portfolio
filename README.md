@@ -48,6 +48,15 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
     <img src="https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 </div>
 
+## Threat Intelligence 
+<div>
+    <img src="https://img.shields.io/badge/-VirusTotal-4285F4?style=for-the-badge&logo=virustotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ANY.RUN-FF4500?style=for-the-badge&logo=anydesk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hybrid%20Analysis-8A2BE2?style=for-the-badge&logo=anaconda&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdSec-4169E1?style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Talos-008CFF?style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+
 ## Privacy and Compliance Law
 <div>
     <img src="https://img.shields.io/badge/-GDPR-0052CC?style=for-the-badge&logo=gdpr&logoColor=white" />
