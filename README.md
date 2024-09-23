@@ -12,7 +12,7 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">SIEM Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Tarunkal/SIEM-Implementation-and-Log-Analysis">SIEM Lab</a>|
 | Malware Analysis Lab                          | <a href="https://google.com">Malware Lab</a>|
 | PIA Analysis For AI Products                  | Privacy Analysis           |
 | Blue team Labs (SOC Alerts)                   | <a href="https://app.letsdefend.io/user/tarunkal">SOC Profile</a>|
