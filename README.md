@@ -82,3 +82,4 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
 - SIEM Implementation and Log Analysis
 - Malware Analysis Lab
 - PIA Analysis For AI Products
+- Ubuntu OS Hardening Script 
