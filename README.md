@@ -58,6 +58,13 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
     <img src="https://img.shields.io/badge/-Cisco%20Talos-008CFF?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
+## Firewall 
+<div>
+    <img src="https://img.shields.io/badge/-PfSense%20Firewall-0C3552?style=for-the-badge&logo=firewall&logoColor=white" />
+
+</div>
+
+
 ## Privacy and Compliance Law
 <div>
     <img src="https://img.shields.io/badge/-GDPR-0052CC?style=for-the-badge&logo=gdpr&logoColor=white" />
