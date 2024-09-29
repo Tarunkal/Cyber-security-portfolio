@@ -19,7 +19,7 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
 | PIA Analysis For AI Products                  | Privacy Analysis           |
 | Ubuntu OS Hardening Script                    |<a href="https://github.com/Shrit-Shah/Linux_OS_Hardening-CIS_Benchmarks">OS Hardening</a> |
 | Blue team Labs (SOC Alerts)                   | <a href="https://app.letsdefend.io/user/tarunkal">SOC Profile</a>|
-| Privacy Law                                   | Pravacy law Analysis      |
+| Privacy Law                                   | Privacy law Analysis      |
 | SOC Home Lab                                  | currently engaged         |
 
 ## Tools & Frameworks 
