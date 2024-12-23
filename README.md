@@ -3,6 +3,10 @@
 <a href="https://www.linkedin.com/in/tarunkalyani"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://app.letsdefend.io/user/tarunkal" target="_blank"><img src="https://img.shields.io/badge/-LetsDefend-0000FF?style=for-the-badge&logo=shield&logoColor=white" /></a>
 
+[![TryHackMe Profile Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3941135)](https://tryhackme.com/profile/3941135)
+
+
+
 
 
 I am a recent Master's graduate in Cybersecurity and Threat Intelligence with expertise in SOC operations, incident response, malware analysis, and SIEM. Skilled in threat management and hands-on security testing through home lab projects
