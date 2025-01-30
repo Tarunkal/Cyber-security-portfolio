@@ -25,6 +25,7 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
 | Blue team Labs (SOC Alerts)                   | <a href="https://app.letsdefend.io/user/tarunkal">SOC Profile</a>|
 | Privacy Law                                   | Privacy law Analysis      |
 | SOC Home Lab                                  | currently engaged         |
+| SOC Alert Analysis & Incident Report | <a href="https://github.com/Tarunkal/SOC-Incident-Response-Analysis-And-Investigation-Process"> SOC Incident Report</a>|
 
 ## Tools & Frameworks 
 
