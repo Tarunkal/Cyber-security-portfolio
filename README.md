@@ -22,9 +22,6 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
 | Malware Analysis Lab                          | <a href="https://github.com/Tarunkal/Malware-Analysis-Lab">Malware Lab</a>|
 | PIA Analysis For AI Products                  | Privacy Analysis           |
 | Ubuntu OS Hardening Script                    |<a href="https://github.com/Shrit-Shah/Linux_OS_Hardening-CIS_Benchmarks">OS Hardening</a> |
-| Blue team Labs (SOC Alerts)                   | <a href="https://app.letsdefend.io/user/tarunkal">SOC Profile</a>|
-| Privacy Law                                   | Privacy law Analysis      |
-| SOC Home Lab                                  | currently engaged         |
 | SOC Alert Analysis & Incident Report | <a href="https://github.com/Tarunkal/SOC-Incident-Response-Analysis-And-Investigation-Process"> SOC Incident Report</a>|
 
 ## Tools & Frameworks 
