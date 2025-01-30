@@ -35,6 +35,8 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 </div>
 
@@ -86,6 +88,8 @@ Aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst 🛡, le
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-SC--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 </div>
 
 ## Projects
